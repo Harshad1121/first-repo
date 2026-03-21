@@ -1,4 +1,4 @@
-# HTML Project
+# first-repo
 
 This is a simple HTML profile page.
 
